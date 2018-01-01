@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zsSailAutoSound.github.io/"/>
-  <updated>2017-12-28T03:11:34.257Z</updated>
+  <updated>2018-01-01T08:15:10.357Z</updated>
   <id>https://zsSailAutoSound.github.io/</id>
   
   <author>
@@ -14,6 +14,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MTS产品展示</title>
+    <link href="https://zsSailAutoSound.github.io/2018/01/01/MTS%E4%BA%A7%E5%93%81%E5%B1%95%E7%A4%BA/"/>
+    <id>https://zsSailAutoSound.github.io/2018/01/01/MTS产品展示/</id>
+    <published>2018-01-01T07:49:18.000Z</published>
+    <updated>2018-01-01T08:15:10.357Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+&lt;img src=&quot;/2018/01/01/MTS产品展示/1.jpg&quot; alt=&quot;1.jpg&quot; title=&quot;&quot;&gt;
+&lt;hr&gt;
+&lt;p&gt;品名：6.5寸二分频套装喇叭&lt;br&gt;型号：MTS-EV650&lt;br&gt;额定功率：70W&lt;br&gt;频响范围：48Hz-23KHz&lt;br&gt;灵敏度
+    
+    </summary>
+    
+      <category term="教程" scheme="https://zsSailAutoSound.github.io/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="MTS" scheme="https://zsSailAutoSound.github.io/tags/MTS/"/>
+    
+  </entry>
   
   <entry>
     <title>奇瑞旗云炫酷全场，改装升级OIIO和美乐福</title>
@@ -401,24 +424,6 @@
       <category term="PLINIUS" scheme="https://zsSailAutoSound.github.io/tags/PLINIUS/"/>
     
       <category term="JBL" scheme="https://zsSailAutoSound.github.io/tags/JBL/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>远离十大误区</title>
-    <link href="https://zsSailAutoSound.github.io/2017/12/01/%E6%B1%BD%E8%BD%A6%E9%9F%B3%E5%93%8D%E6%94%B9%E8%A3%85%E4%B8%8D%E5%8F%AA%E6%98%AF%E9%92%B1%E7%9A%84%E9%97%AE%E9%A2%98-%E8%BF%9C%E7%A6%BB%E5%8D%81%E5%A4%A7%E8%AF%AF%E5%8C%BA/"/>
-    <id>https://zsSailAutoSound.github.io/2017/12/01/汽车音响改装不只是钱的问题-远离十大误区/</id>
-    <published>2017-12-01T07:56:49.000Z</published>
-    <updated>2017-12-17T05:04:29.578Z</updated>
-    
-    <summary type="html">
-    
-      &lt;pre&gt;&lt;code&gt;据统计，80%以上的车友都习惯在开车时欣赏汽车音乐或收听广播。然而有部分车主会考虑到汽车价格，降低汽车音响的成本，改用价廉低质的扬声器，导致原车配备的音响差强人意，说不上享受。还有很多车主喜欢加载车载低音炮、改装原配的汽车音响系统，但往往这些会容易造成汽车线
-    
-    </summary>
-    
-      <category term="教程" scheme="https://zsSailAutoSound.github.io/categories/%E6%95%99%E7%A8%8B/"/>
-    
     
   </entry>
   
